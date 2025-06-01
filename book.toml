@@ -1,0 +1,11 @@
+[book]
+title = "Manifest"
+authors = ["hyperprior"]
+multilingual = false
+src = "src"
+
+[build]
+default-language = "en"
+
+[output.html]
+default-theme = "light"
